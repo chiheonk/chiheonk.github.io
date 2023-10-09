@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,99 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an AI research scientist at Kakao Brain. I received my Ph.D. in Mathematics from [Massachusetts Institute of Technology](https://math.mit.edu/) under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/).
+After completion of my Ph.D., I joined Kakao Brain as a research scientist.
+
+Conference Publications
+------
+
+- **Locality-Aware Generalizable Implicit Neural Representation**\\
+  Doyup Lee\*, **Chiheon Kim**\*, Minsu Cho, Wook-Shin Han\\
+  Annual Conference on Neural Information Processing Systems (NeurIPS), 2023\\
+  [[paper]](https://to-appear) [[code]](https://to-appear)
+
+- **Towards End-to-End Generative Modeling of Long Videos With Memory-Efficient Bidirectional Transformers**\\
+  Jaehoon Yoo, Semin Kim, Doyup Lee, **Chiheon Kim**, Seunghoon Hong \\
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023\\
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Yoo_Towards_End-to-End_Generative_Modeling_of_Long_Videos_With_Memory-Efficient_Bidirectional_CVPR_2023_paper.html)
+
+- **Generalizable Implicit Neural Representations via Instance Pattern Composers**\\
+  **Chiheon Kim**\*, Doyup Lee\*, Saehoon Kim, Minsu Cho, Wook-Shin Han\\
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023\\
+  **Spotlight (acceptance rate 2.5%)**\\
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Generalizable_Implicit_Neural_Representations_via_Instance_Pattern_Composers_CVPR_2023_paper.html) [[code]](https://github.com/kakaobrain/ginr-ipc)
+
+- **Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer**\\
+  Doyup Lee\*, **Chiheon Kim**\*, Saehoon Kim, Minsu Cho, Wook-Shin Han\\
+  Annual Conference on Neural Information Processing Systems (NeurIPS), 2022\\
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/c276c3303c0723c83a43b95a44a1fcbf-Abstract-Conference.html)
+
+- **Locally Hierarchical Auto-Regressive Modeling for Image Generation**\\
+  Tackgeun You, Saehoon Kim, **Chiheon Kim**, Doyup Lee, Bohyung Han\\
+  Annual Conference on Neural Information Processing Systems (NeurIPS), 2022\\
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2022/hash/67d60c2694f4fecd18fa04d1fa8c0a5c-Abstract-Conference.html) [[code]](https://github.com/kakaobrain/hqtransformer)
+
+- **Autoregressive image generation using residual quantization**\\
+  Doyup Lee\*, **Chiheon Kim**\*, Saehoon Kim, Minsu Cho, Wook-Shin Han\\
+  IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2022\\
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Lee_Autoregressive_Image_Generation_Using_Residual_Quantization_CVPR_2022_paper.html) [[code]](https://github.com/kakaobrain/rq-vae-transformer)
+
+- **Automated learning rate scheduler for large-batch training**\\
+  **Chiheon Kim**, Saehoon Kim, Jongmin Kim, Donghoon Lee, Sungwoong Kim\\
+  8th ICML Workshop on Automated Machine Learning (ICMLW-AutoML), 2021\\
+  [[paper]](https://arxiv.org/abs/2107.05855) [[code]](https://github.com/kakaobrain/autowu)
+
+- **Mining Gold Samples for Conditional GANs**\\
+  Sangwoo Mo, **Chiheon Kim**, Sungwoong Kim, Minsu Cho, Jinwoo Shin\\
+  Annual Conference on Neural Information Processing Systems (NeurIPS), 2019\\
+  [[paper]](https://proceedings.neurips.cc/paper/2019/hash/36ed197b3f31618fdbadb3df86f804bd-Abstract.html) [[code]](https://github.com/sangwoomo/GOLD)
+
+- **Fast Autoaugment**\\
+  Sungbin Lim, Ildoo Kim, Taesup Kim, **Chiheon Kim**, Sungwoong Kim\\
+  Annual Conference on Neural Information Processing Systems (NeurIPS), 2019\\
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2019/hash/6add07cf50424b14fdf649da87843d01-Abstract.html) [[code]](https://github.com/kakaobrain/fast-autoaugment)
+
+- **Scalable Neural Architecture Search for 3d Medical Image Segmentation**\\
+  Sungwoong Kim, Ildoo Kim, Sungbin Lim, Woonhyuk Baek, **Chiheon Kim**, Hyungjoo Cho, Boogeon Yoon, Taesup Kim\\
+  22nd International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2019\\
+  [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_25) [[arxiv]](https://arxiv.org/abs/1906.05956)
+
+- **Community Detection in Hypergraphs, Spiked Tensor Models, and Sum-of-Squares**\\
+  **Chiheon Kim**, Afonso Bandeira, Michel X. Goemans\\
+  International Conference on Sampling Theory and Applications (SampTA), 2017\\
+  [[paper]](https://ieeexplore.ieee.org/abstract/document/8024470) [[arxiv]](https://arxiv.org/abs/1705.02973)
+
+
+Journal Publications
+------
+- **New Classes of Set-sequential Trees**\\
+  Louis Golowich, **Chiheon Kim**\\
+  Discrete Mathematics, Vol. 343, Issue 3, 2020\\
+  [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0012365X19304194) [[arxiv]](https://arxiv.org/abs/1710.02906)
+
+- **Maximum Size of a Family of Pairwise Graph-Different Permutations**\\
+  Louis Golowich, **Chiheon Kim**, Richard Zhou\\
+  Electornic Journal of Combinatorics, Vol. 24, Issue 4, 2017\\
+  [[paper]](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i4p22)
+
+
+Education
+------
+- **Massachusetts Institute of Technology (MIT)**, Cambridge, MA, United States \\
+  Ph.D. in Mathematics, Sep. 2012 - Sep. 2018 \\
+  Thesis: Statistical Limits of Graphical Channel Models and a Semidefinite Programming Approach \\
+  Advisor: Michel X. Goemans
+
+- **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Korea \\
+  B.S. in Mathematical Sciences, Mar. 2006 - Feb. 2012 \\
+  *Summa Cum Laude* \\
+  Thesis: On Vector Chromatic Dimension \\
+  Advisor: Andreas Holmsen
+
+
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +139,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
