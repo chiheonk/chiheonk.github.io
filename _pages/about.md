@@ -84,6 +84,19 @@ Journal Publications
   [[paper]](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v24i4p22)
 
 
+Non-refereed Publications
+------
+- **torchgpipe: On-the-fly Pipeline Parallelism for Training Giant Models**\\
+  **Chiheon Kim**\*, Heungsub Lee\*, Myungryong Jeong, Woonhyuk Baek, Boogeon Yoon, Ildoo Kim, Sungbin Lim, Sungwoong Kim\\
+  Open-source, efficient PyTorch implementation of Pipeline Parallelism a.k.a. [GPipe](https://papers.nips.cc/paper_files/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html),\\
+  [now became a part of PyTorch](https://pytorch.org/docs/stable/pipeline.html).\\
+  [[paper]](https://arxiv.org/abs/2004.09910) [[code]](https://github.com/kakaobrain/torchgpipe)
+
+- **Stochastic Block Model for Hypergraphs: Statistical Limits and a Semidefinite Programming Approach**\\
+  **Chiheon Kim**, Afonso Bandeira, Michel X. Goemans\\
+  [[paper]](https://arxiv.org/abs/1807.02884)
+
+
 Education
 ------
 - **Massachusetts Institute of Technology (MIT)**, Cambridge, MA, United States \\
