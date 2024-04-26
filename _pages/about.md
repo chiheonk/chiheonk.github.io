@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI research scientist at Kakao Brain. I received my Ph.D. in Mathematics from [Massachusetts Institute of Technology](https://math.mit.edu/) under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/).
-After completion of my Ph.D., I joined Kakao Brain as a research scientist.
+I am senior research scientist at Runway. I received my Ph.D. in Mathematics from [Massachusetts Institute of Technology](https://math.mit.edu/) under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/).
+After completion of my Ph.D., I worked at Kakao Brain as a research scientist from November 2018 to February 2024. I joined [Runway](https://runwayml.com/) as a senior research scientist in March 2024.
 
 Conference Publications
 ------
@@ -86,6 +86,9 @@ Journal Publications
 
 Non-refereed Publications
 ------
+- **<font color="DarkBlue">NVS-Adapter: Plug-and-Play Novel View Synthesis from a Single Image</font>**\\
+  Yoonwoo Jeong, Jinwoo Lee, **Chiheon Kim**, Minsu Cho, Doyup Lee\\
+  [[paper]](https://arxiv.org/abs/2312.07315)
 - **<font color="DarkBlue">torchgpipe: On-the-fly Pipeline Parallelism for Training Giant Models</font>**\\
   **Chiheon Kim**\*, Heungsub Lee\*, Myungryong Jeong, Woonhyuk Baek, Boogeon Yoon, Ildoo Kim, Sungbin Lim, Sungwoong Kim\\
   Open-source, efficient PyTorch implementation of Pipeline Parallelism a.k.a. [GPipe](https://papers.nips.cc/paper_files/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html).\\

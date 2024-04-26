@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chiheon Kim"
 title_separator          : "-"
 name                     : &name "Chiheon Kim"
-description              : &description "AI Research Scientist at Kakao Brain"
+description              : &description "Senior Research Scientist at Runway"
 url                      : https://chiheonk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chiheonk/chiheonk.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Chiheon Kim"
   avatar           : "my_profile.png"
-  bio              : "AI Research Scientist at Kakao Brain"
-  location         : "Pangyo, South Korea"
-  employer         : "Kakao Brain"
+  bio              : "Senior Research Scientist at Runway"
+  location         : "New York"
+  employer         : "Runway"
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=nimFSSEAAAAJ"
-  email            : "chiheon.kim@kakaobrain.com"
+  email            : "chiheon@runwayml.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chiheonk"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
