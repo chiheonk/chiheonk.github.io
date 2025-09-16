@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am senior research scientist at Runway. I received my Ph.D. in Mathematics from [Massachusetts Institute of Technology](https://math.mit.edu/) under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/).
-After completion of my Ph.D., I worked at Kakao Brain as a research scientist from November 2018 to February 2024. I joined [Runway](https://runwayml.com/) as a senior research scientist in March 2024.
+I am an AI researcher envisioning the next generation of creative software. I completed my Ph.D. in Mathematics in 2018 under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/) at [Massachusetts Institute of Technology](https://math.mit.edu/). After completing my Ph.D., I worked as a research scientist at Kakao Brain from November 2018 to February 2024, where I contributed to several breakthrough projects in vision generative models. I then joined [Runway](https://runwayml.com/) as a senior member of technical staff in March 2024, where I substantially contributed to the development of Gen-3 Alpha Turbo and Gen-4 Turbo flagship models.
+
 
 Conference Publications
 ------
+- **<font color="DarkBlue">NVS-Adapter: Plug-and-Play Novel View Synthesis from a Single Image</font>**\\
+  Yoonwoo Jeong, Jinwoo Lee, **Chiheon Kim**, Minsu Cho, Doyup Lee\\
+  European Conference on Computer Vision (ECCV), 2024
+  [[paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06489.pdf) [[project page]](https://postech-cvlab.github.io/nvsadapter/)
 
 - **<font color="DarkBlue">Locality-Aware Generalizable Implicit Neural Representation</font>**\\
   Doyup Lee\*, **Chiheon Kim**\*, Minsu Cho, Wook-Shin Han\\
   Annual Conference on Neural Information Processing Systems (NeurIPS), 2023\\
-  [[paper]](https://to-appear) [[code]](https://to-appear)
+  [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/9713d53ee4f31781304b1ca43266f8d1-Paper-Conference.pdf)
 
 - **<font color="DarkBlue">Towards End-to-End Generative Modeling of Long Videos With Memory-Efficient Bidirectional Transformers</font>**\\
   Jaehoon Yoo, Semin Kim, Doyup Lee, **Chiheon Kim**, Seunghoon Hong \\
@@ -86,9 +90,6 @@ Journal Publications
 
 Non-refereed Publications
 ------
-- **<font color="DarkBlue">NVS-Adapter: Plug-and-Play Novel View Synthesis from a Single Image</font>**\\
-  Yoonwoo Jeong, Jinwoo Lee, **Chiheon Kim**, Minsu Cho, Doyup Lee\\
-  [[paper]](https://arxiv.org/abs/2312.07315)
 - **<font color="DarkBlue">torchgpipe: On-the-fly Pipeline Parallelism for Training Giant Models</font>**\\
   **Chiheon Kim**\*, Heungsub Lee\*, Myungryong Jeong, Woonhyuk Baek, Boogeon Yoon, Ildoo Kim, Sungbin Lim, Sungwoong Kim\\
   Open-source, efficient PyTorch implementation of Pipeline Parallelism a.k.a. [GPipe](https://papers.nips.cc/paper_files/paper/2019/hash/093f65e080a295f8076b1c5722a46aa2-Abstract.html).\\
