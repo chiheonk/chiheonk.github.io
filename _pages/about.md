@@ -20,12 +20,12 @@ Professional Experience
 - **Kakao Brain**, Pangyo, South Korea \\
   Research Scientist, Nov. 2018 - Feb. 2024
   - Published 8 papers in top-tier venues (NeurIPS, CVPR), including 4 co-first authored works receiving 800+ citations.
-  - Conducted research on generative models and implicit neural representations (2021 - 2024)
+  - Generative Models and Implicit Neural Representations (2021 - 2024)
     - Large-scale image generative models based on discrete representation of images (721+ citations, co-first author).
     - Generalizable implicit neural representation with application to generative models (49+ citations, CVPR 2023 Highlight, co-first author).
     - Distillation of large-scale diffusion models for fast sampling.
     - Personalized image generation.
-  - Conducted research on Automated Machine Learning and large-scale training (2018 - 2021)
+  - Automated Machine Learning and Large-Scale Training (2018 - 2021)
     - Automated learning rate scheduling for large-batch training (first author).
     - Open-source project torchgpipe, efficient implementation of pipeline parallelism in PyTorch (60+ citations, became part of PyTorch, co-first author).
 
