@@ -8,7 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher envisioning the next generation of creative software. I completed my Ph.D. in Mathematics in 2018 under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/) at [Massachusetts Institute of Technology](https://math.mit.edu/). After completing my Ph.D., I worked as a research scientist at Kakao Brain from November 2018 to February 2024, where I contributed to several breakthrough projects in vision generative models. I then joined [Runway](https://runwayml.com/) as a senior member of technical staff in March 2024, where I substantially contributed to the development of Gen-3 Alpha Turbo and Gen-4 Turbo flagship models.
+I am an AI researcher envisioning the next generation of creative software. I completed my Ph.D. in Mathematics in 2018 under the supervision of [Prof. Michel X. Goemans](https://math.mit.edu/~goemans/) at [Massachusetts Institute of Technology](https://math.mit.edu/). After completing my Ph.D., I worked as a research scientist at Kakao Brain from November 2018 to February 2024, where I contributed to several breakthrough projects in vision generative models. I then worked at [Runway](https://runwayml.com/) as a senior member of technical staff from March 2024 to May 2025, where I substantially contributed to the development of Gen-3 Alpha Turbo and Gen-4 Turbo flagship models.
+
+
+Professional Experience
+------
+- **[Runway](https://runwayml.com/)**, New York, NY, United States \\
+  Senior Member of Technical Staff (Research), Mar. 2024 - May. 2025
+  - Made substantial contributions to the flagship Gen-3 Alpha Turbo and Gen-4 Turbo models, focusing on distillation of Gen-3 Alpha and Gen-4 models for fast sampling and cheaper inference.
+
+- **Kakao Brain**, Pangyo, South Korea \\
+  Research Scientist, Nov. 2018 - Feb. 2024
+  - Published 8 papers in top-tier venues (NeurIPS, CVPR), including 4 co-first authored works receiving 800+ citations.
+  - Conducted research on generative models and implicit neural representations (2021 - 2024)
+    - Large-scale image generative models based on discrete representation of images (721+ citations, co-first author).
+    - Generalizable implicit neural representation with application to generative models (49+ citations, CVPR 2023 Highlight, co-first author).
+    - Distillation of large-scale diffusion models for fast sampling.
+    - Personalized image generation.
+  - Conducted research on Automated Machine Learning and large-scale training (2018 - 2021)
+    - Automated learning rate scheduling for large-batch training (first author).
+    - Open-source project torchgpipe, efficient implementation of pipeline parallelism in PyTorch (60+ citations, became part of PyTorch, co-first author).
 
 
 Conference Publications
@@ -31,7 +50,7 @@ Conference Publications
 - **<font color="DarkBlue">Generalizable Implicit Neural Representations via Instance Pattern Composers</font>**\\
   **Chiheon Kim**\*, Doyup Lee\*, Saehoon Kim, Minsu Cho, Wook-Shin Han\\
   IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023\\
-  **<font color="red">Spotlight (acceptance rate 2.5%)</font>**\\
+  **<font color="red">Spotlight (acceptance rate 2.6%)</font>**\\
   [[paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Kim_Generalizable_Implicit_Neural_Representations_via_Instance_Pattern_Composers_CVPR_2023_paper.html) [[code]](https://github.com/kakaobrain/ginr-ipc)
 
 - **<font color="DarkBlue">Draft-and-Revise: Effective Image Generation with Contextual RQ-Transformer</font>**\\
